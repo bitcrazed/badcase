@@ -23,9 +23,7 @@ Further, cloning this repo on Windows discards the Hello.txt file completely!
 ```
 PS C:\dev> ls .\badcase2\
 
-
     Directory: C:\dev\badcase2
-
 
 Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
